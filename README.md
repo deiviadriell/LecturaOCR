@@ -1,1 +1,1 @@
-# OCRPlantas
+# Lectura OCR de imágenes
